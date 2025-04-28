@@ -40,8 +40,6 @@ We developed two novel architectures based on different EBM paradigms:
     * Reconstruction-free, focuses on distilling the "essence" of the program.
     * Uses techniques (EMA Teacher, Asymmetry, Temperature Scaling) to prevent representation collapse.
 
-*(See the paper/presentation for detailed architectures)*
-
 ## Datasets
 
 Models were evaluated on:
