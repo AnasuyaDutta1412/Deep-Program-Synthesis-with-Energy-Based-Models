@@ -3,8 +3,6 @@
 **Supervisor:** Professor Colin Johnson (University of Nottingham)
 **Project:** COMP4140: Enhanced MSc Research Project and Dissertation in Artificial Intelligence
 
-[![Paper](https://img.shields.io/badge/Read-Paper-blue)](./Research%20Paper_%20Anasuya%20(1).pdf) ## Abstract
-
 Current self-supervised learning systems face significant challenges with abstract reasoning. While recently emerging paradigms of inference-time optimisation have led to considerable improvements, they still fundamentally lack the notion of considering Reasoning as being a kind of State Space Search with discrete actions. This research proposes novel architectures for performing abstract reasoning: **Latent Program VAE (LP-VAE)** and **Latent Program DINO (LP-DINO)**. These combine the abstraction power of Deep Learning with the reasoning apparatus of Program Synthesis by learning latent representations of programs. The architectures are evaluated on reasoning datasets (PairedMNIST, ARC-AGI) and compared with a traditional Deep Learning architecture (Vanilla VAE). The results demonstrate that these novel approaches significantly outperform traditional Deep Learning in abstract reasoning tasks.
 
 ## Motivation & Problem Statement
